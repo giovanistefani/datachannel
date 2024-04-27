@@ -86,7 +86,7 @@ body {
 
 .div-session2 {
     margin: auto;
-    width: 90%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -94,6 +94,7 @@ body {
 
 .div-session2 div {
     margin: 20px 0;
+    width: 90%;
     display: flex;
     flex-direction: column;
     padding: 40px;
